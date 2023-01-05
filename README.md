@@ -1,2 +1,2 @@
 # MERN-Stack-Sample-Project
-Student management system
+This project has the backend part of student management system
